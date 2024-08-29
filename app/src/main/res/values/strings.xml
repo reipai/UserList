@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserList</string>
+    <string name="name">Name</string>
+    <string name="birth">Birth</string>
+    <string name="avatar">Avatar</string>
+    <string name="title_first_name">First Name</string>
+    <string name="title_last_name">Last Name</string>
+    <string name="title_address">Address</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="detail_user">Detail User</string>
+</resources>
